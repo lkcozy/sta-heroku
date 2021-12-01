@@ -3,7 +3,7 @@
   "description": "ogc sta server",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["sta"],
-  "success_url": "/FROST-Server/v1.0",
+  "success_url": "/FROST-Server/v1.1/Things",
   "formation": {
     "web": {
       "quantity": 1
