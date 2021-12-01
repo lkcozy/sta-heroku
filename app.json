@@ -1,0 +1,18 @@
+{
+  "name": "sta",
+  "description": "ogc sta server",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["sta"],
+  "success_url": "/FROST-Server/v1.0",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "stack": "container",
+  "addons": [
+    {
+      "plan": "heroku-postgresql:hobby-dev"
+    }
+  ]
+}
